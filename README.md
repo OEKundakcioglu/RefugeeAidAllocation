@@ -1,4 +1,4 @@
-# RefugeeAidAllocation
+# Refugee Aid Allocation Engine
 
 Open source code implementation of ideas outlined in the manuscript titled "Aid Allocation for Camp-Based and Urban Refugees with Uncertain Demand and Replenishments," by Shima Azizi, Cem Deniz Caglar Bozkir, Andrew C. Trapp, O. Erhun Kundakcioglu, and Ali Kaan Kurbanzade.
 
